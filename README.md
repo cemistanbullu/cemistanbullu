@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cem Istanbullu</h1>
 <h3 align="center">Data Science and Machine Learning Enthusiast | Computer Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cemistanbullu&label=Profile%20views&color=0e75b6&style=flat" alt="cemistanbullu" /> </p>
 
 - 💬 Ask me about **DS, ML, Java, Python, C++ and BigQuery**
 - 🌱 I’m currently learning **deep learning**
