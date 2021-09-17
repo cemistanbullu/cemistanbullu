@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cem Istanbullu</h1>
-<h3 align="center">Data Science and Machine Learning Enthusiast | Computer Engineer</h3>
+<h3 align="center">Data Scientist | Computer Engineer</h3>
 
 - 🔭 I’m currently working on **AI and data science projects**
-- 🌱 I’m currently learning **deep learning**
+- 🌱 I’m currently learning **Big Data | Deep Learning**
 - 💬 Ask me about **DS, ML, Java, Python, C++ and BigQuery**
 - 📫 How to reach me **istanbullucem@gmail.com**
 
